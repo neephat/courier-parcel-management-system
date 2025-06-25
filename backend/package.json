@@ -1,0 +1,16 @@
+{
+  "name": "parcel-management-system-backend",
+  "version": "1.0.0",
+  "description": "This is an assessment of Excel Technologies Ltd.",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": " run server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "development"
+  ],
+  "author": "Neephat Benazir",
+  "license": "ISC"
+}
