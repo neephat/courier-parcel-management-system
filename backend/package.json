@@ -12,5 +12,24 @@
     "development"
   ],
   "author": "Neephat Benazir",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-async-errors": "^3.1.1",
+    "form-data": "^4.0.3",
+    "formidable": "^3.5.4",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.16.0",
+    "mongoose-findorcreate": "^4.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.1",
+    "node-fetch": "^3.3.2",
+    "node-fetch-commonjs": "^3.3.2",
+    "nodemon": "^3.1.10"
+  }
 }
